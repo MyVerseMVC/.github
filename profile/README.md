@@ -9,3 +9,6 @@ Welcome to MyVerseMVC
 👩‍💻 Useful resources - none?
 🍿 Fun facts - i am in earltendo network!
 🧙 Remeber - i am Kamil
+Myverse without y is MVerse and MV stands for Miiverse
+
+--!>
