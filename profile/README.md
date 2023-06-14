@@ -1,7 +1,5 @@
 ## Hi there 👋
 Welcome to MyVerseMVC
-<!--
-
 🙋‍♀️ what is this? - this is the main MyVerse account where the code is
 🌈 Contribution guidelines - you will not, i dont know if i will finish MyVerseU
 👩‍💻 Useful resources - none?
@@ -9,4 +7,3 @@ Welcome to MyVerseMVC
 🧙 Remeber - i am Kamil
 Myverse without y is MVerse and MV stands for Miiverse
 ## bye there 👋
-<!--
